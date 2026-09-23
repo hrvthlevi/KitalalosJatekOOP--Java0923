@@ -13,6 +13,6 @@
 | `Prg`   | Maja    |
 | `Pakli` | Levi    |
 
-## Megjegyzés
+## Metódusok
 
-A metódusok az osztályokon belül valamilyen logika szerint lesznek felosztva.
+A metódusok az osztályokon belül valamilyen logika szerint lesznek felosztva. Még nem tudjuk
